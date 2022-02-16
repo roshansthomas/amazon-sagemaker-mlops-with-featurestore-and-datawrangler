@@ -151,3 +151,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
+
+## Survey
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3fNc9oH4ql0guCq?Session=HAN8). Participants who complete the surveys from AWS Innovate Online Conference – AI/ML Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2022.
